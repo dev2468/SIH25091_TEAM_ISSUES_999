@@ -1,0 +1,50 @@
+[
+  {
+    "subject": "Random Processes and Estimation Techniques",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Random Processes and Estimation Techniques",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Operating Systems",
+    "faculty": "Prof. Dilip Motwani",
+    "duration": 2,
+    "visiting": true
+  },
+  {
+    "subject": "Operating Systems",
+    "faculty": "Prof. Dilip Motwani",
+    "duration": 2,
+    "visiting": true
+  },
+  {
+    "subject": "Intelligent Systems - I",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Intelligent Systems - I",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Data Structures and Algorithms",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Data Structures and Algorithms",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 2,
+    "visiting": false
+  }
+]

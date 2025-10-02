@@ -1,0 +1,160 @@
+2025-09-30 22:29:38,218 [WARNING]  * Debugger is active!
+2025-09-30 22:29:38,254 [INFO]  * Debugger PIN: 631-583-340
+2025-09-30 22:29:39,738 [INFO] 127.0.0.1 - - [30/Sep/2025 22:29:39] "GET / HTTP/1.1" 200 -
+2025-09-30 22:29:40,226 [INFO] 127.0.0.1 - - [30/Sep/2025 22:29:40] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-09-30 22:29:40,228 [INFO] 127.0.0.1 - - [30/Sep/2025 22:29:40] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-09-30 22:30:01,464 [INFO] 127.0.0.1 - - [30/Sep/2025 22:30:01] "POST /upload HTTP/1.1" 200 -
+2025-09-30 22:30:04,054 [INFO] 
+--- Phase 1: Scheduling Electives (Highest Priority) ---
+2025-09-30 22:30:04,056 [INFO] Attempting to schedule elective 'Mobile Application Development' for: B.Tech (AI)-V-A
+2025-09-30 22:30:04,056 [INFO] Assigning ELECTIVE Mobile Application Development for B.Tech (AI)-V-A to Monday, 08:00-09:00 in CR-302
+2025-09-30 22:30:04,057 [INFO] Assigning ELECTIVE Mobile Application Development for B.Tech (AI)-V-A to Tuesday, 08:00-09:00 in CR-302
+2025-09-30 22:30:04,058 [INFO] Attempting to schedule elective 'Mobile Application Development' for: MBA.Tech (AI)-V-M
+2025-09-30 22:30:04,059 [INFO] Assigning ELECTIVE Mobile Application Development for MBA.Tech (AI)-V-M to Monday, 08:00-09:00 in CR-303
+2025-09-30 22:30:04,059 [INFO] Assigning ELECTIVE Mobile Application Development for MBA.Tech (AI)-V-M to Tuesday, 08:00-09:00 in CR-303
+2025-09-30 22:30:04,060 [INFO] 
+--- Phase 1.5: Scheduling Elective LABS ---
+2025-09-30 22:30:04,061 [INFO] Scheduling lab for elective 'Mobile Application Development' for division B.Tech (AI)-V-A
+2025-09-30 22:30:04,063 [INFO] Assigning Mobile Application Development (Practical) for B.Tech (AI)-V-A to Wednesday, 08:00-10:00 in CL-404
+2025-09-30 22:30:04,064 [INFO] Assigning Mobile Application Development (Practical) for B.Tech (AI)-V-A to Thursday, 08:00-10:00 in CL-404
+2025-09-30 22:30:04,067 [INFO] Scheduling lab for elective 'Mobile Application Development' for division MBA.Tech (AI)-V-M
+2025-09-30 22:30:04,071 [INFO] Assigning Mobile Application Development (Practical) for MBA.Tech (AI)-V-M to Wednesday, 08:00-10:00 in CC-101
+2025-09-30 22:30:04,077 [INFO] 
+--- Phase 2: Scheduling Visiting Faculty ---
+2025-09-30 22:30:04,099 [INFO] Assigning Computer Architecture (Theory) for B.Tech (AI)-III-A to Monday, 08:00-09:00 in CR-304
+2025-09-30 22:30:04,114 [INFO] Assigning Computer Architecture (Theory) for B.Tech (AI)-III-A to Tuesday, 08:00-09:00 in CR-304
+2025-09-30 22:30:04,133 [INFO] Assigning Computer Architecture (Theory) for MBA.Tech (AI)-III-M to Wednesday, 08:00-09:00 in CR-302
+2025-09-30 22:30:04,149 [INFO] Assigning Computer Architecture (Theory) for MBA.Tech (AI)-III-M to Thursday, 08:00-09:00 in CR-302
+2025-09-30 22:30:04,165 [INFO] Assigning Operating Systems (Theory) for MBA.Tech (AI)-III-M to Friday, 08:00-09:00 in CR-302
+2025-09-30 22:30:04,185 [INFO] Assigning Operating Systems (Theory) for MBA.Tech (AI)-III-M to Saturday, 08:00-09:00 in CR-302
+2025-09-30 22:30:04,199 [INFO] Assigning Operating Systems (Practical) for MBA.Tech (AI)-III-M to Monday, 09:00-11:00 in CL-404
+2025-09-30 22:30:04,207 [INFO] Assigning Operating Systems (Practical) for MBA.Tech (AI)-III-M to Tuesday, 09:00-11:00 in CL-404
+2025-09-30 22:30:04,229 [INFO] 
+--- Pass 3: Strict Scheduling (Subj/Day <= 3, FacCont <= 5) ---
+2025-09-30 22:30:04,241 [INFO] Assigning Discrete Mathematics (Theory) for B.Tech (AI)-III-A to Wednesday, 08:00-09:00 in CR-303
+2025-09-30 22:30:04,258 [INFO] Assigning Discrete Mathematics (Theory) for B.Tech (AI)-III-A to Thursday, 08:00-09:00 in CR-303
+2025-09-30 22:30:04,266 [INFO] Assigning Discrete Mathematics (Theory) for B.Tech (AI)-III-A to Friday, 08:00-09:00 in CR-303
+2025-09-30 22:30:04,272 [INFO] Assigning Random Processes and Estimation Techniques (Theory) for B.Tech (AI)-III-A to Saturday, 08:00-09:00 in CR-303
+2025-09-30 22:30:04,281 [INFO] Assigning Random Processes and Estimation Techniques (Theory) for B.Tech (AI)-III-A to Monday, 09:00-10:00 in CR-302
+2025-09-30 22:30:04,288 [INFO] Assigning Random Processes and Estimation Techniques (Theory) for B.Tech (AI)-III-A to Tuesday, 09:00-10:00 in CR-302
+2025-09-30 22:30:04,297 [INFO] Assigning Random Processes and Estimation Techniques (Practical) for B.Tech (AI)-III-A to Wednesday, 09:00-11:00 in CL-405
+2025-09-30 22:30:04,309 [INFO] Assigning Random Processes and Estimation Techniques (Practical) for B.Tech (AI)-III-A to Thursday, 09:00-11:00 in CL-405
+2025-09-30 22:30:04,315 [INFO] Assigning Random Processes and Estimation Techniques (Practical) for B.Tech (AI)-III-A to Friday, 09:00-11:00 in CL-404
+2025-09-30 22:30:04,322 [INFO] Assigning Operating Systems (Theory) for B.Tech (AI)-III-A to Saturday, 09:00-10:00 in CR-302
+2025-09-30 22:30:04,330 [INFO] Assigning Operating Systems (Theory) for B.Tech (AI)-III-A to Monday, 10:00-11:00 in CR-302
+2025-09-30 22:30:04,347 [INFO] Assigning Operating Systems (Practical) for B.Tech (AI)-III-A to Tuesday, 10:00-12:00 in CL-405
+2025-09-30 22:30:04,350 [INFO] Assigning Operating Systems (Practical) for B.Tech (AI)-III-A to Saturday, 10:00-12:00 in CL-404
+2025-09-30 22:30:04,389 [INFO] Assigning Operating Systems (Practical) for B.Tech (AI)-III-A to Monday, 11:00-13:00 in CL-404
+2025-09-30 22:30:04,399 [INFO] Assigning Intelligent Systems - I (Theory) for B.Tech (AI)-III-A to Wednesday, 11:00-12:00 in CR-302
+2025-09-30 22:30:04,403 [INFO] Assigning Intelligent Systems - I (Theory) for B.Tech (AI)-III-A to Thursday, 11:00-12:00 in CR-302
+2025-09-30 22:30:04,408 [INFO] Assigning Intelligent Systems - I (Practical) for B.Tech (AI)-III-A to Friday, 11:00-13:00 in CL-404
+2025-09-30 22:30:04,412 [INFO] Assigning Intelligent Systems - I (Practical) for B.Tech (AI)-III-A to Tuesday, 13:00-15:00 in CL-404
+2025-09-30 22:30:04,415 [INFO] Assigning Intelligent Systems - I (Practical) for B.Tech (AI)-III-A to Wednesday, 13:00-15:00 in CL-404
+2025-09-30 22:30:04,423 [INFO] Assigning Data Structures and Algorithms (Theory) for B.Tech (AI)-III-A to Thursday, 12:00-13:00 in CR-302
+2025-09-30 22:30:04,429 [INFO] Assigning Data Structures and Algorithms (Theory) for B.Tech (AI)-III-A to Saturday, 12:00-13:00 in CR-302
+2025-09-30 22:30:04,431 [INFO] Assigning Data Structures and Algorithms (Theory) for B.Tech (AI)-III-A to Monday, 14:00-15:00 in CR-302
+2025-09-30 22:30:04,439 [INFO] Assigning Data Structures and Algorithms (Practical) for B.Tech (AI)-III-A to Thursday, 14:00-16:00 in CL-404
+2025-09-30 22:30:04,442 [INFO] Assigning Data Structures and Algorithms (Practical) for B.Tech (AI)-III-A to Friday, 14:00-16:00 in CL-404
+2025-09-30 22:30:04,446 [INFO] Assigning Data Structures and Algorithms (Practical) for B.Tech (AI)-III-A to Saturday, 14:00-16:00 in CL-404
+2025-09-30 22:30:04,450 [INFO] Assigning Technical Communication (Theory) for B.Tech (AI)-III-A to Monday, 15:00-16:00 in CR-302
+2025-09-30 22:30:04,454 [INFO] Assigning Discrete Mathematics (Theory) for MBA.Tech (AI)-III-M to Monday, 08:00-09:00 in CR-305
+2025-09-30 22:30:04,457 [INFO] Assigning Discrete Mathematics (Theory) for MBA.Tech (AI)-III-M to Tuesday, 08:00-09:00 in CR-305
+2025-09-30 22:30:04,460 [INFO] Assigning Discrete Mathematics (Theory) for MBA.Tech (AI)-III-M to Wednesday, 09:00-10:00 in CR-302
+2025-09-30 22:30:04,461 [INFO] Assigning Random Processes and Estimation Techniques (Theory) for MBA.Tech (AI)-III-M to Saturday, 09:00-10:00 in CR-303
+2025-09-30 22:30:04,464 [INFO] Assigning Random Processes and Estimation Techniques (Theory) for MBA.Tech (AI)-III-M to Saturday, 10:00-11:00 in CR-302
+2025-09-30 22:30:04,466 [INFO] Assigning Random Processes and Estimation Techniques (Theory) for MBA.Tech (AI)-III-M to Monday, 11:00-12:00 in CR-302
+2025-09-30 22:30:04,467 [INFO] Assigning Random Processes and Estimation Techniques (Practical) for MBA.Tech (AI)-III-M to Tuesday, 11:00-13:00 in CL-404
+2025-09-30 22:30:04,468 [INFO] Assigning Random Processes and Estimation Techniques (Practical) for MBA.Tech (AI)-III-M to Thursday, 09:00-11:00 in CL-406
+2025-09-30 22:30:04,470 [INFO] Assigning Intelligent Systems - I (Theory) for MBA.Tech (AI)-III-M to Friday, 09:00-10:00 in CR-302
+2025-09-30 22:30:04,472 [INFO] Assigning Intelligent Systems - I (Theory) for MBA.Tech (AI)-III-M to Wednesday, 10:00-11:00 in CR-302
+2025-09-30 22:30:04,474 [INFO] Assigning Intelligent Systems - I (Practical) for MBA.Tech (AI)-III-M to Saturday, 11:00-13:00 in CL-405
+2025-09-30 22:30:04,475 [INFO] Assigning Intelligent Systems - I (Practical) for MBA.Tech (AI)-III-M to Friday, 10:00-12:00 in CL-405
+2025-09-30 22:30:04,477 [INFO] Assigning Data Structures and Algorithms (Theory) for MBA.Tech (AI)-III-M to Wednesday, 11:00-12:00 in CR-303
+2025-09-30 22:30:04,479 [INFO] Assigning Data Structures and Algorithms (Theory) for MBA.Tech (AI)-III-M to Thursday, 11:00-12:00 in CR-303
+2025-09-30 22:30:04,481 [INFO] Assigning Data Structures and Algorithms (Theory) for MBA.Tech (AI)-III-M to Monday, 12:00-13:00 in CR-302
+2025-09-30 22:30:04,483 [INFO] Assigning Data Structures and Algorithms (Practical) for MBA.Tech (AI)-III-M to Wednesday, 13:00-15:00 in CL-405
+2025-09-30 22:30:04,484 [INFO] Assigning Data Structures and Algorithms (Practical) for MBA.Tech (AI)-III-M to Tuesday, 14:00-16:00 in CL-405
+2025-09-30 22:30:04,485 [INFO] Assigning Technical Communication (Theory) for MBA.Tech (AI)-III-M to Thursday, 12:00-13:00 in CR-303
+2025-09-30 22:30:04,489 [INFO] Assigning Computer Network (Theory) for B.Tech (AI)-V-A to Saturday, 08:00-09:00 in CR-304
+2025-09-30 22:30:04,490 [INFO] Assigning Computer Network (Theory) for B.Tech (AI)-V-A to Monday, 09:00-10:00 in CR-303
+2025-09-30 22:30:04,491 [INFO] Assigning Computer Network (Practical) for B.Tech (AI)-V-A to Tuesday, 09:00-11:00 in CL-406
+2025-09-30 22:30:04,497 [INFO] Assigning Computer Network (Practical) for B.Tech (AI)-V-A to Friday, 09:00-11:00 in CL-406
+2025-09-30 22:30:04,500 [INFO] Assigning Computer Network (Practical) for B.Tech (AI)-V-A to Saturday, 09:00-11:00 in CL-405
+2025-09-30 22:30:04,500 [INFO] Assigning Deep Learning (Theory) for B.Tech (AI)-V-A to Friday, 08:00-09:00 in CR-304
+2025-09-30 22:30:04,502 [INFO] Assigning Deep Learning (Theory) for B.Tech (AI)-V-A to Monday, 10:00-11:00 in CR-303
+2025-09-30 22:30:04,503 [INFO] Assigning Deep Learning (Practical) for B.Tech (AI)-V-A to Wednesday, 11:00-13:00 in CL-404
+2025-09-30 22:30:04,505 [INFO] Assigning Deep Learning (Practical) for B.Tech (AI)-V-A to Thursday, 11:00-13:00 in CL-404
+2025-09-30 22:30:04,507 [INFO] Assigning Deep Learning (Practical) for B.Tech (AI)-V-A to Friday, 11:00-13:00 in CL-406
+2025-09-30 22:30:04,508 [INFO] Assigning Natural Language Processing (Theory) for B.Tech (AI)-V-A to Wednesday, 10:00-11:00 in CR-303
+2025-09-30 22:30:04,509 [INFO] Assigning Natural Language Processing (Theory) for B.Tech (AI)-V-A to Thursday, 10:00-11:00 in CR-302
+2025-09-30 22:30:04,510 [INFO] Assigning Natural Language Processing (Practical) for B.Tech (AI)-V-A to Monday, 11:00-13:00 in CL-405
+2025-09-30 22:30:04,512 [INFO] Assigning Natural Language Processing (Practical) for B.Tech (AI)-V-A to Tuesday, 11:00-13:00 in CL-406
+2025-09-30 22:30:04,517 [INFO] Assigning Natural Language Processing (Practical) for B.Tech (AI)-V-A to Saturday, 11:00-13:00 in CL-406
+2025-09-30 22:30:04,519 [INFO] Assigning Web Programming (Theory) for B.Tech (AI)-V-A to Monday, 14:00-15:00 in CR-303
+2025-09-30 22:30:04,523 [INFO] Assigning Web Programming (Theory) for B.Tech (AI)-V-A to Thursday, 14:00-15:00 in CR-302
+2025-09-30 22:30:04,524 [INFO] Assigning Web Programming (Practical) for B.Tech (AI)-V-A to Friday, 14:00-16:00 in CC-101
+2025-09-30 22:30:04,525 [INFO] Assigning Design and Analysis of Algorithms (Theory) for B.Tech (AI)-V-A to Monday, 15:00-16:00 in CR-303
+2025-09-30 22:30:04,527 [INFO] Assigning Design and Analysis of Algorithms (Theory) for B.Tech (AI)-V-A to Wednesday, 15:00-16:00 in CR-302
+2025-09-30 22:30:04,528 [INFO] Assigning Design and Analysis of Algorithms (Practical) for B.Tech (AI)-V-A to Tuesday, 16:00-18:00 in CL-404
+2025-09-30 22:30:04,529 [INFO] Assigning Design and Analysis of Algorithms (Practical) for B.Tech (AI)-V-A to Wednesday, 16:00-18:00 in CL-404
+2025-09-30 22:30:04,530 [INFO] Assigning Cryptography and Network Security (Theory) for B.Tech (AI)-V-A to Tuesday, 14:00-15:00 in CR-302
+2025-09-30 22:30:04,531 [INFO] Assigning Cryptography and Network Security (Theory) for B.Tech (AI)-V-A to Saturday, 14:00-15:00 in CR-302
+2025-09-30 22:30:04,533 [INFO] Assigning Cryptography and Network Security (Practical) for B.Tech (AI)-V-A to Thursday, 15:00-17:00 in CC-101
+2025-09-30 22:30:04,534 [INFO] Assigning Computer Network (Theory) for MBA.Tech (AI)-V-M to Thursday, 09:00-10:00 in CR-302
+2025-09-30 22:30:04,535 [INFO] Assigning Computer Network (Theory) for MBA.Tech (AI)-V-M to Monday, 10:00-11:00 in CR-304
+2025-09-30 22:30:04,536 [INFO] Assigning Computer Network (Practical) for MBA.Tech (AI)-V-M to Wednesday, 10:00-12:00 in CL-406
+2025-09-30 22:30:04,537 [INFO] Assigning Computer Network (Practical) for MBA.Tech (AI)-V-M to Thursday, 10:00-12:00 in CL-407
+2025-09-30 22:30:04,538 [INFO] Assigning Deep Learning (Theory) for MBA.Tech (AI)-V-M to Thursday, 08:00-09:00 in CR-304
+2025-09-30 22:30:04,539 [INFO] Assigning Deep Learning (Theory) for MBA.Tech (AI)-V-M to Tuesday, 10:00-11:00 in CR-302
+2025-09-30 22:30:04,540 [INFO] Assigning Deep Learning (Practical) for MBA.Tech (AI)-V-M to Saturday, 11:00-13:00 in CL-407
+2025-09-30 22:30:04,541 [INFO] Assigning Deep Learning (Practical) for MBA.Tech (AI)-V-M to Monday, 12:00-14:00 in CL-406
+2025-09-30 22:30:04,542 [INFO] Assigning Natural Language Processing (Theory) for MBA.Tech (AI)-V-M to Friday, 08:00-09:00 in CR-305
+2025-09-30 22:30:04,543 [INFO] Assigning Natural Language Processing (Theory) for MBA.Tech (AI)-V-M to Saturday, 08:00-09:00 in CR-305
+2025-09-30 22:30:04,544 [INFO] Assigning Natural Language Processing (Practical) for MBA.Tech (AI)-V-M to Friday, 09:00-11:00 in CL-407
+2025-09-30 22:30:04,545 [INFO] Assigning Natural Language Processing (Practical) for MBA.Tech (AI)-V-M to Saturday, 09:00-11:00 in CL-406
+2025-09-30 22:30:04,546 [INFO] Assigning Design and Analysis of Algorithms (Theory) for MBA.Tech (AI)-V-M to Monday, 09:00-10:00 in CR-304
+2025-09-30 22:30:04,547 [INFO] Assigning Design and Analysis of Algorithms (Theory) for MBA.Tech (AI)-V-M to Tuesday, 09:00-10:00 in CR-303
+2025-09-30 22:30:04,547 [INFO] Assigning Design and Analysis of Algorithms (Practical) for MBA.Tech (AI)-V-M to Tuesday, 11:00-13:00 in CC-101
+2025-09-30 22:30:04,549 [INFO] Assigning Applied Time Series Analysis (Theory) for B.Tech (AI)-VII-A to Tuesday, 11:00-12:00 in CR-302
+2025-09-30 22:30:04,550 [INFO] Assigning Applied Time Series Analysis (Theory) for B.Tech (AI)-VII-A to Friday, 11:00-12:00 in CR-302
+2025-09-30 22:30:04,551 [INFO] Assigning Applied Time Series Analysis (Practical) for B.Tech (AI)-VII-A to Monday, 11:00-13:00 in CL-407
+2025-09-30 22:30:04,552 [INFO] Assigning Applied Time Series Analysis (Practical) for B.Tech (AI)-VII-A to Saturday, 11:00-13:00 in CL-403
+2025-09-30 22:30:04,553 [INFO] Assigning Computer Vision (Theory) for B.Tech (AI)-VII-A to Tuesday, 08:00-09:00 in CR-306
+2025-09-30 22:30:04,554 [INFO] Assigning Computer Vision (Theory) for B.Tech (AI)-VII-A to Wednesday, 08:00-09:00 in CR-304
+2025-09-30 22:30:04,556 [INFO] Assigning Computer Vision (Practical) for B.Tech (AI)-VII-A to Tuesday, 14:00-16:00 in CL-406
+2025-09-30 22:30:04,558 [INFO] Assigning Computer Vision (Practical) for B.Tech (AI)-VII-A to Wednesday, 14:00-16:00 in CL-406
+2025-09-30 22:30:04,559 [INFO] Assigning Advanced Topics in Machine Learning (Theory) for B.Tech (AI)-VII-A to Monday, 09:00-10:00 in CR-305
+2025-09-30 22:30:04,560 [INFO] Assigning Advanced Topics in Machine Learning (Theory) for B.Tech (AI)-VII-A to Tuesday, 09:00-10:00 in CR-304
+2025-09-30 22:30:04,561 [INFO] Assigning Advanced Topics in Machine Learning (Practical) for B.Tech (AI)-VII-A to Wednesday, 11:00-13:00 in CL-405
+2025-09-30 22:30:04,562 [INFO] Assigning Advanced Topics in Machine Learning (Practical) for B.Tech (AI)-VII-A to Thursday, 11:00-13:00 in CL-405
+2025-09-30 22:30:04,564 [INFO] Assigning Recommendation Systems (Theory) for B.Tech (AI)-VII-A to Friday, 08:00-09:00 in CR-306
+2025-09-30 22:30:04,566 [INFO] Assigning Recommendation Systems (Theory) for B.Tech (AI)-VII-A to Saturday, 08:00-09:00 in CR-306
+2025-09-30 22:30:04,567 [INFO] Assigning Recommendation Systems (Practical) for B.Tech (AI)-VII-A to Friday, 09:00-11:00 in CL-403
+2025-09-30 22:30:04,568 [INFO] Assigning Recommendation Systems (Practical) for B.Tech (AI)-VII-A to Tuesday, 12:00-14:00 in CL-405
+2025-09-30 22:30:04,569 [INFO] Assigning Big Data Analytics (Theory) for B.Tech (AI)-VII-A to Monday, 08:00-09:00 in CR-306
+2025-09-30 22:30:04,571 [INFO] Assigning Big Data Analytics (Theory) for B.Tech (AI)-VII-A to Thursday, 08:00-09:00 in CR-305
+2025-09-30 22:30:04,573 [INFO] Assigning Big Data Analytics (Practical) for B.Tech (AI)-VII-A to Saturday, 09:00-11:00 in CL-407
+2025-09-30 22:30:04,574 [INFO] Assigning Big Data Analytics (Practical) for B.Tech (AI)-VII-A to Wednesday, 16:00-18:00 in CL-405
+2025-09-30 22:30:04,577 [INFO] Assigning Reinforcement Learning (Theory) for B.Tech (AI)-VII-A to Thursday, 09:00-10:00 in CR-303
+2025-09-30 22:30:04,580 [INFO] Assigning Reinforcement Learning (Theory) for B.Tech (AI)-VII-A to Monday, 10:00-11:00 in CR-305
+2025-09-30 22:30:04,583 [INFO] Assigning Reinforcement Learning (Practical) for B.Tech (AI)-VII-A to Monday, 16:00-18:00 in CC-101
+2025-09-30 22:30:04,584 [INFO] Assigning DevOps (Theory) for B.Tech (AI)-VII-A to Wednesday, 09:00-10:00 in CR-303
+2025-09-30 22:30:04,592 [INFO] Assigning DevOps (Theory) for B.Tech (AI)-VII-A to Thursday, 10:00-11:00 in CR-303
+2025-09-30 22:30:04,594 [INFO] Assigning DevOps (Theory) for B.Tech (AI)-VII-A to Friday, 12:00-13:00 in CR-302
+2025-09-30 22:30:04,595 [INFO] Assigning DevOps (Theory) for B.Tech (AI)-VII-A to Monday, 14:00-15:00 in CR-304
+2025-09-30 22:30:04,598 [INFO] Assigning DevOps (Practical) for B.Tech (AI)-VII-A to Friday, 14:00-16:00 in CC-102
+2025-09-30 22:30:04,627 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\timetable_B.Tech_AI-III-A.csv
+2025-09-30 22:30:04,725 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\timetable_MBA.Tech_AI-III-M.csv
+2025-09-30 22:30:04,752 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\timetable_B.Tech_AI-V-A.csv
+2025-09-30 22:30:04,782 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\timetable_MBA.Tech_AI-V-M.csv
+2025-09-30 22:30:04,844 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\timetable_B.Tech_AI-VII-A.csv
+2025-09-30 22:30:04,873 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\timetable_UnknownDivision.csv
+2025-09-30 22:30:04,893 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\faculty_Dr._Priyal_Panchal.csv
+2025-09-30 22:30:04,941 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\faculty_Dr._Sangitha_Choudhary.csv
+2025-09-30 22:30:04,974 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\faculty_Prof._Dilip_Motwani.csv
+2025-09-30 22:30:04,997 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\faculty_Prof._Jish_Joy.csv
+2025-09-30 22:30:05,048 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\faculty_Prof._Kapil_Rathor.csv
+2025-09-30 22:30:05,068 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\faculty_Prof._Prateeksha_Shanoj.csv
+2025-09-30 22:30:05,119 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\faculty_Prof._Sapna_Shah.csv
+2025-09-30 22:30:05,148 [WARNING] Module 'xlsxwriter' not found. Exporting as plain CSV to outputs\faculty_Prof._Sneha_Talreja.csv
+2025-09-30 22:30:05,623 [INFO] 127.0.0.1 - - [30/Sep/2025 22:30:05] "POST /generate HTTP/1.1" 200 -

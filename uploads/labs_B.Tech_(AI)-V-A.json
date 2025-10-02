@@ -1,0 +1,86 @@
+[
+  {
+    "subject": "Computer Network",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Computer Network",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Deep Learning",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Deep Learning",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Natural Language Processing",
+    "faculty": "Prof. Sneha Talreja",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Natural Language Processing",
+    "faculty": "Prof. Sneha Talreja",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Mobile Application Development",
+    "faculty": "Prof. Jish Joy",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Mobile Application Development",
+    "faculty": "Prof. Jish Joy",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Web Programming",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Web Programming",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Design and Analysis of Algorithms",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Design and Analysis of Algorithms",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Cryptography and Network Security",
+    "faculty": "Dr. Priyal Panchal",
+    "duration": 2,
+    "visiting": false
+  },
+  {
+    "subject": "Cryptography and Network Security",
+    "faculty": "Dr. Priyal Panchal",
+    "duration": 2,
+    "visiting": false
+  }
+]

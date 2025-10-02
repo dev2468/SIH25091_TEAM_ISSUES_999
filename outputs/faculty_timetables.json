@@ -1,0 +1,1504 @@
+{
+  "Dr. Priyal Panchal": {
+    "Monday": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "DevOps",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Technical Communication",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      null
+    ],
+    "Tuesday": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Cryptography and Network Security",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null
+    ],
+    "Wednesday": [
+      null,
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "DevOps",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Thursday": [
+      null,
+      null,
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "DevOps",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Technical Communication",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      null,
+      null,
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Cryptography and Network Security",
+        "room": "CC-101",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Cryptography and Network Security",
+        "room": "CC-101",
+        "type": "Practical"
+      },
+      null
+    ],
+    "Friday": [
+      null,
+      null,
+      null,
+      null,
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "DevOps",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "DevOps",
+        "room": "CC-102",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "DevOps",
+        "room": "CC-102",
+        "type": "Practical"
+      },
+      null,
+      null
+    ],
+    "Saturday": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Cryptography and Network Security",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null
+    ]
+  },
+  "Dr. Sangitha Choudhary": {
+    "Monday": [
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Discrete Mathematics",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Computer Network",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Computer Network",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Applied Time Series Analysis",
+        "room": "CL-407",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Applied Time Series Analysis",
+        "room": "CL-407",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Tuesday": [
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Discrete Mathematics",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Computer Network",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Computer Network",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Applied Time Series Analysis",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Wednesday": [
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Discrete Mathematics",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Discrete Mathematics",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Computer Network",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Computer Network",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Thursday": [
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Discrete Mathematics",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Computer Network",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Computer Network",
+        "room": "CL-407",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Computer Network",
+        "room": "CL-407",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Friday": [
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Discrete Mathematics",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Computer Network",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Computer Network",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Applied Time Series Analysis",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Saturday": [
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Computer Network",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Computer Network",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Computer Network",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Applied Time Series Analysis",
+        "room": "CL-403",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Applied Time Series Analysis",
+        "room": "CL-403",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "Prof. Dilip Motwani": {
+    "Monday": [
+      {
+        "division": "ELECTIVE",
+        "subject": "Mobile Application Development",
+        "room": "CR-303",
+        "type": "Theory (Elective)"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Operating Systems",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Operating Systems",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Tuesday": [
+      {
+        "division": "ELECTIVE",
+        "subject": "Mobile Application Development",
+        "room": "CR-303",
+        "type": "Theory (Elective)"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Operating Systems",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Operating Systems",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Wednesday": [
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Mobile Application Development",
+        "room": "CC-101",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Mobile Application Development",
+        "room": "CC-101",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Thursday": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Friday": [
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Operating Systems",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Saturday": [
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Operating Systems",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "Prof. Jish Joy": {
+    "Monday": [
+      {
+        "division": "ELECTIVE",
+        "subject": "Mobile Application Development",
+        "room": "CR-302",
+        "type": "Theory (Elective)"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Operating Systems",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Operating Systems",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Operating Systems",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Tuesday": [
+      {
+        "division": "ELECTIVE",
+        "subject": "Mobile Application Development",
+        "room": "CR-302",
+        "type": "Theory (Elective)"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Operating Systems",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Operating Systems",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Recommendation Systems",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Recommendation Systems",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null
+    ],
+    "Wednesday": [
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Mobile Application Development",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Mobile Application Development",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Thursday": [
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Mobile Application Development",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Mobile Application Development",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Friday": [
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Recommendation Systems",
+        "room": "CR-306",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Recommendation Systems",
+        "room": "CL-403",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Recommendation Systems",
+        "room": "CL-403",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Saturday": [
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Recommendation Systems",
+        "room": "CR-306",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Operating Systems",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Operating Systems",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Operating Systems",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "Prof. Kapil Rathor": {
+    "Monday": [
+      null,
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Deep Learning",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Deep Learning",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Deep Learning",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null
+    ],
+    "Tuesday": [
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Computer Vision",
+        "room": "CR-306",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Deep Learning",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Computer Vision",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Computer Vision",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      null,
+      null
+    ],
+    "Wednesday": [
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Computer Vision",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Deep Learning",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Deep Learning",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Computer Vision",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Computer Vision",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      null,
+      null
+    ],
+    "Thursday": [
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Deep Learning",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Deep Learning",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Deep Learning",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Friday": [
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Deep Learning",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Deep Learning",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Deep Learning",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Saturday": [
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Deep Learning",
+        "room": "CL-407",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Deep Learning",
+        "room": "CL-407",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "Prof. Prateeksha Shanoj": {
+    "Monday": [
+      null,
+      null,
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Reinforcement Learning",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Data Structures and Algorithms",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Data Structures and Algorithms",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Design and Analysis of Algorithms",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Reinforcement Learning",
+        "room": "CC-101",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Reinforcement Learning",
+        "room": "CC-101",
+        "type": "Practical"
+      }
+    ],
+    "Tuesday": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Data Structures and Algorithms",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Data Structures and Algorithms",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Design and Analysis of Algorithms",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Design and Analysis of Algorithms",
+        "room": "CL-404",
+        "type": "Practical"
+      }
+    ],
+    "Wednesday": [
+      null,
+      null,
+      null,
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Data Structures and Algorithms",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Data Structures and Algorithms",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Data Structures and Algorithms",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Design and Analysis of Algorithms",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Design and Analysis of Algorithms",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Design and Analysis of Algorithms",
+        "room": "CL-404",
+        "type": "Practical"
+      }
+    ],
+    "Thursday": [
+      null,
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Reinforcement Learning",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Data Structures and Algorithms",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Data Structures and Algorithms",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Data Structures and Algorithms",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Data Structures and Algorithms",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      null
+    ],
+    "Friday": [
+      null,
+      null,
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Intelligent Systems - I",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Intelligent Systems - I",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      null,
+      null,
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Data Structures and Algorithms",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Data Structures and Algorithms",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      null
+    ],
+    "Saturday": [
+      null,
+      null,
+      null,
+      null,
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Data Structures and Algorithms",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Data Structures and Algorithms",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Data Structures and Algorithms",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      null
+    ]
+  },
+  "Prof. Sapna Shah": {
+    "Monday": [
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Big Data Analytics",
+        "room": "CR-306",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Design and Analysis of Algorithms",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Web Programming",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null
+    ],
+    "Tuesday": [
+      null,
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Design and Analysis of Algorithms",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Design and Analysis of Algorithms",
+        "room": "CC-101",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Design and Analysis of Algorithms",
+        "room": "CC-101",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Intelligent Systems - I",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Intelligent Systems - I",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null
+    ],
+    "Wednesday": [
+      null,
+      null,
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Intelligent Systems - I",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Intelligent Systems - I",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Intelligent Systems - I",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Intelligent Systems - I",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Big Data Analytics",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Big Data Analytics",
+        "room": "CL-405",
+        "type": "Practical"
+      }
+    ],
+    "Thursday": [
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Big Data Analytics",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Random Processes and Estimation Techniques",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Intelligent Systems - I",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      null,
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Web Programming",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null
+    ],
+    "Friday": [
+      null,
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Intelligent Systems - I",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Intelligent Systems - I",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Intelligent Systems - I",
+        "room": "CL-404",
+        "type": "Practical"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Web Programming",
+        "room": "CC-101",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Web Programming",
+        "room": "CC-101",
+        "type": "Practical"
+      },
+      null,
+      null
+    ],
+    "Saturday": [
+      null,
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Big Data Analytics",
+        "room": "CL-407",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Big Data Analytics",
+        "room": "CL-407",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Intelligent Systems - I",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Intelligent Systems - I",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "Prof. Sneha Talreja": {
+    "Monday": [
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Computer Architecture",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Advanced Topics in Machine Learning",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Natural Language Processing",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Natural Language Processing",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Tuesday": [
+      {
+        "division": "B.Tech (AI)-III-A",
+        "subject": "Computer Architecture",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Advanced Topics in Machine Learning",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Natural Language Processing",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Natural Language Processing",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Wednesday": [
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Computer Architecture",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Natural Language Processing",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Advanced Topics in Machine Learning",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Advanced Topics in Machine Learning",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Thursday": [
+      {
+        "division": "MBA.Tech (AI)-III-M",
+        "subject": "Computer Architecture",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Natural Language Processing",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Advanced Topics in Machine Learning",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-VII-A",
+        "subject": "Advanced Topics in Machine Learning",
+        "room": "CL-405",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Friday": [
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Natural Language Processing",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Natural Language Processing",
+        "room": "CL-407",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Natural Language Processing",
+        "room": "CL-407",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Saturday": [
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Natural Language Processing",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Natural Language Processing",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "MBA.Tech (AI)-V-M",
+        "subject": "Natural Language Processing",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Natural Language Processing",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      {
+        "division": "B.Tech (AI)-V-A",
+        "subject": "Natural Language Processing",
+        "room": "CL-406",
+        "type": "Practical"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

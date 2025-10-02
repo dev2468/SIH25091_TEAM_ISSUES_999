@@ -1,0 +1,1466 @@
+{
+  "B.Tech (AI)-III-A": {
+    "Monday": [
+      {
+        "subject": "Computer Architecture",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      null,
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Technical Communication",
+        "faculty": "Dr. Priyal Panchal",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      null
+    ],
+    "Tuesday": [
+      {
+        "subject": "Computer Architecture",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      null,
+      null,
+      null
+    ],
+    "Wednesday": [
+      {
+        "subject": "Discrete Mathematics",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      null,
+      null,
+      null
+    ],
+    "Thursday": [
+      {
+        "subject": "Discrete Mathematics",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      null
+    ],
+    "Friday": [
+      {
+        "subject": "Discrete Mathematics",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      null,
+      null
+    ],
+    "Saturday": [
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      null,
+      null
+    ]
+  },
+  "MBA.Tech (AI)-III-M": {
+    "Monday": [
+      {
+        "subject": "Discrete Mathematics",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Dilip Motwani",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Dilip Motwani",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Tuesday": [
+      {
+        "subject": "Discrete Mathematics",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Dilip Motwani",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Dilip Motwani",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      null,
+      null
+    ],
+    "Wednesday": [
+      {
+        "subject": "Computer Architecture",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Discrete Mathematics",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      null,
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      null,
+      null
+    ],
+    "Thursday": [
+      {
+        "subject": "Computer Architecture",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Data Structures and Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "Technical Communication",
+        "faculty": "Dr. Priyal Panchal",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Friday": [
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Dilip Motwani",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Saturday": [
+      {
+        "subject": "Operating Systems",
+        "faculty": "Prof. Dilip Motwani",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "Random Processes and Estimation Techniques",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Intelligent Systems - I",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "B.Tech (AI)-V-A": {
+    "Monday": [
+      {
+        "subject": "Mobile Application Development",
+        "faculty": "Prof. Jish Joy",
+        "room": "CR-302",
+        "type": "Theory (Elective)"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      {
+        "subject": "Web Programming",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "Design and Analysis of Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      null,
+      null
+    ],
+    "Tuesday": [
+      {
+        "subject": "Mobile Application Development",
+        "faculty": "Prof. Jish Joy",
+        "room": "CR-302",
+        "type": "Theory (Elective)"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      null,
+      {
+        "subject": "Cryptography and Network Security",
+        "faculty": "Dr. Priyal Panchal",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "subject": "Design and Analysis of Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Design and Analysis of Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      }
+    ],
+    "Wednesday": [
+      {
+        "subject": "Mobile Application Development",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Mobile Application Development",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      null,
+      {
+        "subject": "Design and Analysis of Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Design and Analysis of Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Design and Analysis of Algorithms",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      }
+    ],
+    "Thursday": [
+      {
+        "subject": "Mobile Application Development",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Mobile Application Development",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-404",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      null,
+      {
+        "subject": "Web Programming",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Cryptography and Network Security",
+        "faculty": "Dr. Priyal Panchal",
+        "room": "CC-101",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Cryptography and Network Security",
+        "faculty": "Dr. Priyal Panchal",
+        "room": "CC-101",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null
+    ],
+    "Friday": [
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      null,
+      {
+        "subject": "Web Programming",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CC-101",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Web Programming",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CC-101",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      null
+    ],
+    "Saturday": [
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 3"
+      },
+      null,
+      {
+        "subject": "Cryptography and Network Security",
+        "faculty": "Dr. Priyal Panchal",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      null,
+      null
+    ]
+  },
+  "MBA.Tech (AI)-V-M": {
+    "Monday": [
+      {
+        "subject": "Mobile Application Development",
+        "faculty": "Prof. Dilip Motwani",
+        "room": "CR-303",
+        "type": "Theory (Elective)"
+      },
+      {
+        "subject": "Design and Analysis of Algorithms",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      null,
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      null,
+      null,
+      null,
+      null
+    ],
+    "Tuesday": [
+      {
+        "subject": "Mobile Application Development",
+        "faculty": "Prof. Dilip Motwani",
+        "room": "CR-303",
+        "type": "Theory (Elective)"
+      },
+      {
+        "subject": "Design and Analysis of Algorithms",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Design and Analysis of Algorithms",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CC-101",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Design and Analysis of Algorithms",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CC-101",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Wednesday": [
+      {
+        "subject": "Mobile Application Development",
+        "faculty": "Prof. Dilip Motwani",
+        "room": "CC-101",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Mobile Application Development",
+        "faculty": "Prof. Dilip Motwani",
+        "room": "CC-101",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Thursday": [
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-407",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Computer Network",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-407",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Friday": [
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-407",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-407",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Saturday": [
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Natural Language Processing",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-407",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Deep Learning",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-407",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "B.Tech (AI)-VII-A": {
+    "Monday": [
+      {
+        "subject": "Big Data Analytics",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CR-306",
+        "type": "Theory"
+      },
+      {
+        "subject": "Advanced Topics in Machine Learning",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      {
+        "subject": "Reinforcement Learning",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      {
+        "subject": "Applied Time Series Analysis",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-407",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Applied Time Series Analysis",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-407",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      {
+        "subject": "DevOps",
+        "faculty": "Dr. Priyal Panchal",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      null,
+      {
+        "subject": "Reinforcement Learning",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CC-101",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Reinforcement Learning",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CC-101",
+        "type": "Practical",
+        "batch": "Batch 1"
+      }
+    ],
+    "Tuesday": [
+      {
+        "subject": "Computer Vision",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CR-306",
+        "type": "Theory"
+      },
+      {
+        "subject": "Advanced Topics in Machine Learning",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      null,
+      {
+        "subject": "Applied Time Series Analysis",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "Recommendation Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Recommendation Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Computer Vision",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Computer Vision",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      null
+    ],
+    "Wednesday": [
+      {
+        "subject": "Computer Vision",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CR-304",
+        "type": "Theory"
+      },
+      {
+        "subject": "DevOps",
+        "faculty": "Dr. Priyal Panchal",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      null,
+      {
+        "subject": "Advanced Topics in Machine Learning",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Advanced Topics in Machine Learning",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      {
+        "subject": "Computer Vision",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Computer Vision",
+        "faculty": "Prof. Kapil Rathor",
+        "room": "CL-406",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Big Data Analytics",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Big Data Analytics",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 2"
+      }
+    ],
+    "Thursday": [
+      {
+        "subject": "Big Data Analytics",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CR-305",
+        "type": "Theory"
+      },
+      {
+        "subject": "Reinforcement Learning",
+        "faculty": "Prof. Prateeksha Shanoj",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "DevOps",
+        "faculty": "Dr. Priyal Panchal",
+        "room": "CR-303",
+        "type": "Theory"
+      },
+      {
+        "subject": "Advanced Topics in Machine Learning",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Advanced Topics in Machine Learning",
+        "faculty": "Prof. Sneha Talreja",
+        "room": "CL-405",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Friday": [
+      {
+        "subject": "Recommendation Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CR-306",
+        "type": "Theory"
+      },
+      {
+        "subject": "Recommendation Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-403",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Recommendation Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CL-403",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Applied Time Series Analysis",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      {
+        "subject": "DevOps",
+        "faculty": "Dr. Priyal Panchal",
+        "room": "CR-302",
+        "type": "Theory"
+      },
+      null,
+      {
+        "subject": "DevOps",
+        "faculty": "Dr. Priyal Panchal",
+        "room": "CC-102",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "DevOps",
+        "faculty": "Dr. Priyal Panchal",
+        "room": "CC-102",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      null,
+      null
+    ],
+    "Saturday": [
+      {
+        "subject": "Recommendation Systems",
+        "faculty": "Prof. Jish Joy",
+        "room": "CR-306",
+        "type": "Theory"
+      },
+      {
+        "subject": "Big Data Analytics",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-407",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Big Data Analytics",
+        "faculty": "Prof. Sapna Shah",
+        "room": "CL-407",
+        "type": "Practical",
+        "batch": "Batch 1"
+      },
+      {
+        "subject": "Applied Time Series Analysis",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-403",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      {
+        "subject": "Applied Time Series Analysis",
+        "faculty": "Dr. Sangitha Choudhary",
+        "room": "CL-403",
+        "type": "Practical",
+        "batch": "Batch 2"
+      },
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "UnknownDivision": {
+    "Monday": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Tuesday": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Wednesday": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Thursday": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Friday": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Saturday": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}

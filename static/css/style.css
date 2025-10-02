@@ -1,0 +1,539 @@
+/* --- Basic Setup --- */
+:root {
+    --primary-color: #4A90E2;
+    --bg-color: #F4F7FC;
+    --sidebar-bg: #FFFFFF;
+    --panel-bg: #FFFFFF;
+    --border-color: #E0E7EE;
+    --text-color: #333;
+    --text-light: #777;
+    --card-theory-bg: #E9F3FE;
+    --card-theory-border: #B4D6FB;
+    --card-lab-bg: #E8F8F0;
+    --card-lab-border: #A2E1C0;
+    --card-tutorial-bg: #FFF8E5;
+    --card-tutorial-border: #FFE29A;
+    --shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.app-container {
+    display: grid;
+    grid-template-columns: 280px 1fr 320px;
+    gap: 24px;
+    width: 100%;
+    max-width: 1800px;
+    height: 95vh;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* --- Sidebar (Left Column) --- */
+.sidebar {
+    background-color: var(--sidebar-bg);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-header {
+    padding: 20px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.sidebar-header h2 {
+    margin: 0;
+    color: var(--primary-color);
+}
+
+.controls {
+    padding: 20px;
+}
+
+.controls h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: var(--text-light);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 5px;
+}
+
+.file-uploader-container {
+    margin-bottom: 10px;
+}
+
+.file-uploader {
+    border: 2px dashed var(--border-color);
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+.file-uploader:hover {
+    background-color: #F9FAFB;
+    border-color: var(--primary-color);
+}
+
+.file-uploader input[type="file"] {
+    display: none;
+}
+
+#file-summary {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #34A853;
+}
+
+.param-group {
+    margin-bottom: 15px;
+}
+
+.param-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+.param-group input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+    box-sizing: border-box;
+}
+
+#generateBtn {
+    width: 100%;
+    padding: 12px;
+    font-size: 1em;
+    font-weight: 500;
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 20px;
+}
+
+#generateBtn:disabled {
+    background-color: #A9A9A9;
+    cursor: not-allowed;
+}
+
+#generateBtn:not(:disabled):hover {
+    background-color: #357ABD;
+}
+
+#generateBtn svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* --- Main Content --- */
+.main-content {
+    display: flex;
+    flex-direction: column;
+    background: var(--panel-bg);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+}
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid var(--border-color);
+    flex-shrink: 0;
+}
+
+.main-header h1 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.timetable-container {
+    flex-grow: 1;
+    overflow: auto;
+    padding: 20px;
+}
+
+.timetable-container .placeholder {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: var(--text-light);
+    text-align: center;
+}
+
+/* Timetable Grid */
+.timetable-grid {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.timetable-grid th,
+.timetable-grid td {
+    border: 1px solid var(--border-color);
+    text-align: center;
+    padding: 4px;
+    height: 80px;
+    vertical-align: top;
+}
+
+.timetable-grid th {
+    background-color: #F9FAFB;
+    font-weight: 500;
+    font-size: 0.9em;
+}
+
+.timetable-grid .time-slot-header {
+    font-size: 0.8em;
+    font-weight: 500;
+    width: 100px;
+}
+
+/* Session Card */
+.session-card {
+    padding: 8px;
+    border-radius: 6px;
+    height: 100%;
+    box-sizing: border-box;
+    font-size: 0.8em;
+    text-align: left;
+    cursor: grab;
+    transition: box-shadow 0.2s;
+}
+
+.session-card:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.session-course {
+    font-weight: 700;
+    display: block;
+    margin-bottom: 4px;
+}
+
+.session-faculty {
+    font-style: italic;
+    display: block;
+    margin-bottom: 4px;
+}
+
+.session-room {
+    color: var(--text-light);
+    font-size: 0.9em;
+}
+
+/* Card Colors */
+.type-theory {
+    background-color: var(--card-theory-bg);
+    border-left: 4px solid var(--card-theory-border);
+}
+
+.type-lab {
+    background-color: var(--card-lab-bg);
+    border-left: 4px solid var(--card-lab-border);
+}
+
+.type-tutorial {
+    background-color: var(--card-tutorial-bg);
+    border-left: 4px solid var(--card-tutorial-border);
+}
+
+/* --- Info Panel (Right Column) --- */
+.info-panel {
+    background: var(--panel-bg);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.tabs {
+    display: flex;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.tablink {
+    flex: 1;
+    padding: 12px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 0.9em;
+    font-weight: 500;
+    color: var(--text-light);
+    border-bottom: 2px solid transparent;
+    transition: color 0.2s, border-color 0.2s;
+}
+
+.tablink.active {
+    color: var(--primary-color);
+    border-bottom-color: var(--primary-color);
+}
+
+.tabcontent {
+    padding: 20px;
+    display: none;
+    flex-grow: 1;
+    overflow-y: auto;
+}
+
+.tabcontent.active {
+    display: block;
+}
+
+.tabcontent h3 {
+    margin-top: 0;
+}
+
+.faculty-list-container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.faculty-item {
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 10px;
+}
+
+.faculty-name {
+    font-weight: 500;
+    display: block;
+}
+
+.faculty-details {
+    font-size: 0.85em;
+    color: var(--text-light);
+}
+/* --- Timetable Selector Dropdown --- */
+.timetable-selector-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.timetable-selector-container label {
+    font-size: 0.8em;
+    font-weight: 700;
+    color: var(--text-light);
+}
+
+#timetableSelector {
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: 1px solid var(--border-color);
+    background-color: #fff;
+    font-size: 0.9em;
+    font-weight: 500;
+    min-width: 250px;
+}
+/* --- Subject & Unassigned List Styling (Add to end of file) --- */
+.subject-list-container,
+.unassigned-list-container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.subject-item,
+.unassigned-item {
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 0.9em;
+}
+
+.subject-item .subject-name {
+    font-weight: 500;
+    display: block;
+    margin-bottom: 2px;
+}
+
+.subject-item .subject-teacher {
+    color: var(--text-light);
+    font-size: 0.9em;
+}
+
+.unassigned-item {
+    background-color: #FFF9F9;
+    border-color: #F8D7DA;
+    color: #721C24;
+}
+/* Timetable table */
+.timetable-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+.timetable-table th, .timetable-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+.timetable-table th {
+    background: #f4f4f4;
+    font-weight: 600;
+}
+.timetable-table td.empty {
+    background: #fafafa;
+    color: #bbb;
+}
+
+/* Session cards */
+.session {
+    padding: 6px;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 12px;
+}
+.session .subject { font-weight: bold; }
+.session.theory { background: #4a90e2; }
+.session.practical { background: #50b050; }
+.session.tutorial { background: #e2a84a; }
+
+/* Faculty Load Table */
+.nice-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+.nice-table th, .nice-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.nice-table th {
+    background: #f4f4f4;
+    font-weight: 600;
+}
+
+/* Lists for subjects/unassigned */
+.styled-list {
+    list-style: none;
+    padding: 0;
+}
+.styled-list li {
+    background: #f9f9f9;
+    margin: 5px 0;
+    padding: 8px 12px;
+    border-radius: 6px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+.styled-list.unassigned li {
+    background: #ffeaea;
+    border-left: 4px solid #ff4d4d;
+}
+/* --- General Interaction Enhancements --- */
+* {
+    transition: all 0.2s ease-in-out;
+}
+
+/* Buttons & Inputs */
+#generateBtn:active {
+    transform: scale(0.97);
+}
+
+.param-group input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.25);
+}
+
+/* Session Dragging */
+.session-card.dragging {
+    transform: rotate(3deg) scale(1.05);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+    opacity: 0.9;
+    cursor: grabbing;
+}
+
+/* Valid Drop Target */
+.timetable-grid td.drop-target {
+    background-color: #e6f3ff;
+    border: 2px dashed var(--primary-color);
+}
+
+.timetable-grid td.drop-target.invalid {
+    background-color: #ffeaea;
+    border-color: #ff4d4d;
+}
+
+/* Unassigned Items Interactions */
+.unassigned-item:hover {
+    background-color: #fff1f1;
+    transform: translateX(4px);
+}
+
+.unassigned-item.added {
+    animation: pop-in 0.3s ease;
+}
+
+/* Faculty & Subject Lists */
+.subject-item:hover,
+.faculty-item:hover {
+    background-color: #f7faff;
+    transform: translateY(-2px);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Animations */
+@keyframes pop-in {
+    0% {
+        transform: scale(0.9);
+        opacity: 0;
+    }
+
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+@keyframes shake {
+
+    0%,
+    100% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(-4px);
+    }
+
+    75% {
+        transform: translateX(4px);
+    }
+}
+
+.timetable-grid td.drop-target.invalid.shake {
+    animation: shake 0.3s;
+}

@@ -1,0 +1,722 @@
+[
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Discrete Mathematics",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Discrete Mathematics",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Discrete Mathematics",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": true,
+    "visiting": false,
+    "type": "tutorial"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Random Processes and Estimation Techniques",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Random Processes and Estimation Techniques",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Random Processes and Estimation Techniques",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Computer Architecture",
+    "faculty": "Prof. Sneha Talreja",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": true,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Computer Architecture",
+    "faculty": "Prof. Sneha Talreja",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": true,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Operating Systems",
+    "faculty": "Prof. Jish Joy",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Operating Systems",
+    "faculty": "Prof. Jish Joy",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Intelligent Systems - I",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Intelligent Systems - I",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Data Structures and Algorithms",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Data Structures and Algorithms",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Data Structures and Algorithms",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-III-A",
+    "subject": "Technical Communication",
+    "faculty": "Dr. Priyal Panchal",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": true,
+    "visiting": false,
+    "type": "tutorial"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Discrete Mathematics",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Discrete Mathematics",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Discrete Mathematics",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": true,
+    "visiting": false,
+    "type": "tutorial"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Random Processes and Estimation Techniques",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Random Processes and Estimation Techniques",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Random Processes and Estimation Techniques",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Computer Architecture",
+    "faculty": "Prof. Sneha Talreja",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": true,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Computer Architecture",
+    "faculty": "Prof. Sneha Talreja",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": true,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Operating Systems",
+    "faculty": "Prof. Dilip Motwani",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": true,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Operating Systems",
+    "faculty": "Prof. Dilip Motwani",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": true,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Intelligent Systems - I",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Intelligent Systems - I",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Data Structures and Algorithms",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Data Structures and Algorithms",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Data Structures and Algorithms",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "subject": "Technical Communication",
+    "faculty": "Dr. Priyal Panchal",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": true,
+    "visiting": false,
+    "type": "tutorial"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Computer Network",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Computer Network",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Deep Learning",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Deep Learning",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Natural Language Processing",
+    "faculty": "Prof. Sneha Talreja",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Natural Language Processing",
+    "faculty": "Prof. Sneha Talreja",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Mobile Application Development",
+    "faculty": "Prof. Jish Joy",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Mobile Application Development",
+    "faculty": "Prof. Jish Joy",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Web Programming",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Web Programming",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Design and Analysis of Algorithms",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Design and Analysis of Algorithms",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Cryptography and Network Security",
+    "faculty": "Dr. Priyal Panchal",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "subject": "Cryptography and Network Security",
+    "faculty": "Dr. Priyal Panchal",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-V-M",
+    "subject": "Computer Network",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-V-M",
+    "subject": "Computer Network",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-V-M",
+    "subject": "Deep Learning",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-V-M",
+    "subject": "Deep Learning",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-V-M",
+    "subject": "Natural Language Processing",
+    "faculty": "Prof. Sneha Talreja",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-V-M",
+    "subject": "Natural Language Processing",
+    "faculty": "Prof. Sneha Talreja",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-V-M",
+    "subject": "Mobile Application Development",
+    "faculty": "Prof. Dilip Motwani",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-V-M",
+    "subject": "Mobile Application Development",
+    "faculty": "Prof. Dilip Motwani",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-V-M",
+    "subject": "Design and Analysis of Algorithms",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "MBA.Tech (AI)-V-M",
+    "subject": "Design and Analysis of Algorithms",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "Applied Time Series Analysis",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "Applied Time Series Analysis",
+    "faculty": "Dr. Sangitha Choudhary",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "Computer Vision",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "Computer Vision",
+    "faculty": "Prof. Kapil Rathor",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "Advanced Topics in Machine Learning",
+    "faculty": "Prof. Sneha Talreja",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "Advanced Topics in Machine Learning",
+    "faculty": "Prof. Sneha Talreja",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "Recommendation Systems",
+    "faculty": "Prof. Jish Joy",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "Recommendation Systems",
+    "faculty": "Prof. Jish Joy",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "Big Data Analytics",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "Big Data Analytics",
+    "faculty": "Prof. Sapna Shah",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "Reinforcement Learning",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "Reinforcement Learning",
+    "faculty": "Prof. Prateeksha Shanoj",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "DevOps",
+    "faculty": "Dr. Priyal Panchal",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "DevOps",
+    "faculty": "Dr. Priyal Panchal",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": false,
+    "visiting": false,
+    "type": "theory"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "DevOps",
+    "faculty": "Dr. Priyal Panchal",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": true,
+    "visiting": false,
+    "type": "tutorial"
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "subject": "DevOps",
+    "faculty": "Dr. Priyal Panchal",
+    "duration": 1,
+    "is_lab": false,
+    "is_tut": true,
+    "visiting": false,
+    "type": "tutorial"
+  }
+]

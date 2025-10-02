@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intelligent Timetable Scheduler</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="app-container">
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h2>Intelligent Scheduler</h2>
+            </div>
+            <div class="controls">
+                <h4>1. Upload Data</h4>
+                <div class="file-uploader-container">
+                    <label for="scheduleFile" class="file-uploader">
+                        <span id="file-label-text">Click or Drag to Upload</span>
+                        <input type="file" id="scheduleFile" accept=".xlsx, .csv">
+                    </label>
+                </div>
+                <div id="file-summary"></div>
+                
+                <h4>2. Set Parameters</h4>
+                <div class="param-group">
+                    <label for="maxConsecutiveHours">Max Consecutive Hours / Subject</label>
+                    <input type="number" id="maxConsecutiveHours" value="2">
+                </div>
+                <div class="param-group">
+                    <label for="maxHoursPerDay">Max Daily Hours / Faculty</label>
+                    <input type="number" id="maxHoursPerDay" value="4">
+                </div>
+
+                <h4>3. Generate</h4>
+                <button id="generateBtn" disabled>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M16.95 7.952L8.463 16.44l-3.53-3.53 1.41-1.41 2.12 2.12 7.078-7.078 1.41 1.41zM4 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v16a2 2 0 0 1-2 2H4zm2-4h12V6H6v12z"></path></svg>
+                    Generate Timetable
+                </button>
+                <div id="loading-spinner" class="spinner" style="display: none;"></div>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="main-header">
+                <h1>Timetable Dashboard</h1>
+                <div class="timetable-selector-container" id="timetable-selector-container" style="display: none;">
+                    <label for="timetableSelector">SELECT DIVISION:</label>
+                    <select id="timetableSelector"></select>
+                </div>
+                <button id="exportBtn" style="display: none;">Export as PDF</button>
+            </div>
+            
+            <div class="timetable-container" id="timetable-container">
+                <div class="placeholder">
+                    <h2>Your timetable will appear here</h2>
+                    <p>Upload a file and click "Generate Timetable" to begin.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="info-panel">
+             <div class="tabs">
+                <button class="tablink active" data-tab="faculty">Faculty Load</button>
+                <button class="tablink" data-tab="subjects">Subjects</button>
+                <button class="tablink" data-tab="unassigned">Unassigned</button>
+            </div>
+            <div id="faculty" class="tabcontent active">
+                <h3>Faculty Load</h3>
+                <div class="faculty-list-container">
+                    </div>
+            </div>
+            <div id="subjects" class="tabcontent">
+    <h3>Subject Assignments</h3>
+    <div class="subject-list-container">
+        </div>
+</div>
+            <div id="unassigned" class="tabcontent">
+                <h3>Unassigned Sessions</h3>
+                <div class="unassigned-list-container">
+                    <p>No unassigned sessions.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>

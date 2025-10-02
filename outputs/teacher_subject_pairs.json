@@ -1,0 +1,152 @@
+{
+  "B.Tech (AI)-III-A": [
+    [
+      "Dr. Priyal Panchal",
+      "Technical Communication"
+    ],
+    [
+      "Dr. Sangitha Choudhary",
+      "Discrete Mathematics"
+    ],
+    [
+      "Prof. Jish Joy",
+      "Operating Systems"
+    ],
+    [
+      "Prof. Kapil Rathor",
+      "Random Processes and Estimation Techniques"
+    ],
+    [
+      "Prof. Prateeksha Shanoj",
+      "Data Structures and Algorithms"
+    ],
+    [
+      "Prof. Sapna Shah",
+      "Intelligent Systems - I"
+    ],
+    [
+      "Prof. Sneha Talreja",
+      "Computer Architecture"
+    ]
+  ],
+  "MBA.Tech (AI)-III-M": [
+    [
+      "Dr. Priyal Panchal",
+      "Technical Communication"
+    ],
+    [
+      "Dr. Sangitha Choudhary",
+      "Discrete Mathematics"
+    ],
+    [
+      "Prof. Dilip Motwani",
+      "Operating Systems"
+    ],
+    [
+      "Prof. Kapil Rathor",
+      "Random Processes and Estimation Techniques"
+    ],
+    [
+      "Prof. Prateeksha Shanoj",
+      "Data Structures and Algorithms"
+    ],
+    [
+      "Prof. Prateeksha Shanoj",
+      "Intelligent Systems - I"
+    ],
+    [
+      "Prof. Sapna Shah",
+      "Intelligent Systems - I"
+    ],
+    [
+      "Prof. Sapna Shah",
+      "Random Processes and Estimation Techniques"
+    ],
+    [
+      "Prof. Sneha Talreja",
+      "Computer Architecture"
+    ]
+  ],
+  "B.Tech (AI)-V-A": [
+    [
+      "Dr. Priyal Panchal",
+      "Cryptography and Network Security"
+    ],
+    [
+      "Dr. Sangitha Choudhary",
+      "Computer Network"
+    ],
+    [
+      "Prof. Jish Joy",
+      "Mobile Application Development"
+    ],
+    [
+      "Prof. Kapil Rathor",
+      "Deep Learning"
+    ],
+    [
+      "Prof. Prateeksha Shanoj",
+      "Design and Analysis of Algorithms"
+    ],
+    [
+      "Prof. Sapna Shah",
+      "Web Programming"
+    ],
+    [
+      "Prof. Sneha Talreja",
+      "Natural Language Processing"
+    ]
+  ],
+  "MBA.Tech (AI)-V-M": [
+    [
+      "Dr. Sangitha Choudhary",
+      "Computer Network"
+    ],
+    [
+      "Prof. Dilip Motwani",
+      "Mobile Application Development"
+    ],
+    [
+      "Prof. Kapil Rathor",
+      "Deep Learning"
+    ],
+    [
+      "Prof. Sapna Shah",
+      "Design and Analysis of Algorithms"
+    ],
+    [
+      "Prof. Sneha Talreja",
+      "Natural Language Processing"
+    ]
+  ],
+  "B.Tech (AI)-VII-A": [
+    [
+      "Dr. Priyal Panchal",
+      "DevOps"
+    ],
+    [
+      "Dr. Sangitha Choudhary",
+      "Applied Time Series Analysis"
+    ],
+    [
+      "Prof. Jish Joy",
+      "Recommendation Systems"
+    ],
+    [
+      "Prof. Kapil Rathor",
+      "Computer Vision"
+    ],
+    [
+      "Prof. Prateeksha Shanoj",
+      "Reinforcement Learning"
+    ],
+    [
+      "Prof. Sapna Shah",
+      "Big Data Analytics"
+    ],
+    [
+      "Prof. Sneha Talreja",
+      "Advanced Topics in Machine Learning"
+    ]
+  ]
+}

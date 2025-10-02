@@ -1,0 +1,723 @@
+[
+  {
+    "division": "B.Tech (AI)-III-A",
+    "department": "Artificial Intelligence",
+    "morning_or_evening": "morning",
+    "subjects": [
+      {
+        "name": "Discrete Mathematics",
+        "Theory": 2,
+        "Pra": 0,
+        "Tut": 1,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Dr. Sangitha Choudhary",
+          "Dr. Sangitha Choudhary"
+        ],
+        "visiting": false,
+        "faculty": "Dr. Sangitha Choudhary",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Random Processes and Estimation Techniques",
+        "Theory": 3,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Kapil Rathor",
+          "Prof. Kapil Rathor",
+          "Prof. Kapil Rathor"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Kapil Rathor",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Computer Architecture",
+        "Theory": 2,
+        "Pra": 0,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Sneha Talreja",
+          "Prof. Sneha Talreja",
+          "Prof. Sneha Talreja"
+        ],
+        "visiting": true,
+        "faculty": "Prof. Sneha Talreja",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {
+          "mon": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "tue": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "thu": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "Operating Systems",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Jish Joy",
+          "Prof. Jish Joy",
+          "Prof. Jish Joy"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Jish Joy",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Intelligent Systems - I",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Sapna Shah",
+          "Prof. Sapna Shah",
+          "Prof. Sapna Shah"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Sapna Shah",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Data Structures and Algorithms",
+        "Theory": 3,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Prateeksha Shanoj",
+          "Prof. Prateeksha Shanoj",
+          "Prof. Prateeksha Shanoj"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Prateeksha Shanoj",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Technical Communication",
+        "Theory": 0,
+        "Pra": 0,
+        "Tut": 1,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Dr. Priyal Panchal",
+          "Dr. Priyal Panchal"
+        ],
+        "visiting": false,
+        "faculty": "Dr. Priyal Panchal",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      }
+    ]
+  },
+  {
+    "division": "MBA.Tech (AI)-III-M",
+    "department": "Artificial Intelligence",
+    "morning_or_evening": "morning",
+    "subjects": [
+      {
+        "name": "Discrete Mathematics",
+        "Theory": 2,
+        "Pra": 0,
+        "Tut": 1,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Dr. Sangitha Choudhary",
+          "Dr. Sangitha Choudhary"
+        ],
+        "visiting": false,
+        "faculty": "Dr. Sangitha Choudhary",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Random Processes and Estimation Techniques",
+        "Theory": 3,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Kapil Rathor",
+          "Prof. Sapna Shah"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Kapil Rathor",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Computer Architecture",
+        "Theory": 2,
+        "Pra": 0,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Sneha Talreja"
+        ],
+        "visiting": true,
+        "faculty": "Prof. Sneha Talreja",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {
+          "mon": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "tue": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "thu": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0
+          ]
+        }
+      },
+      {
+        "name": "Operating Systems",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Dilip Motwani",
+          "Prof. Dilip Motwani"
+        ],
+        "visiting": true,
+        "faculty": "Prof. Dilip Motwani",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {
+          "fri": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "sat": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      {
+        "name": "Intelligent Systems - I",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Sapna Shah",
+          "Prof. Prateeksha Shanoj"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Sapna Shah",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Data Structures and Algorithms",
+        "Theory": 3,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Prateeksha Shanoj",
+          "Prof. Prateeksha Shanoj"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Prateeksha Shanoj",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Technical Communication",
+        "Theory": 0,
+        "Pra": 0,
+        "Tut": 1,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Dr. Priyal Panchal",
+          "Dr. Priyal Panchal"
+        ],
+        "visiting": false,
+        "faculty": "Dr. Priyal Panchal",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      }
+    ]
+  },
+  {
+    "division": "B.Tech (AI)-V-A",
+    "department": "Artificial Intelligence",
+    "morning_or_evening": "morning",
+    "subjects": [
+      {
+        "name": "Computer Network",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Dr. Sangitha Choudhary",
+          "Dr. Sangitha Choudhary",
+          "Dr. Sangitha Choudhary"
+        ],
+        "visiting": false,
+        "faculty": "Dr. Sangitha Choudhary",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Deep Learning",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Kapil Rathor",
+          "Prof. Kapil Rathor",
+          "Prof. Kapil Rathor"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Kapil Rathor",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Natural Language Processing",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Sneha Talreja",
+          "Prof. Sneha Talreja",
+          "Prof. Sneha Talreja"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Sneha Talreja",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Mobile Application Development",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Jish Joy",
+          "Prof. Jish Joy"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Jish Joy",
+        "elective": 1,
+        "combined_class": [
+          "MBA.Tech (AI) M"
+        ],
+        "vf_timing": {}
+      },
+      {
+        "name": "Web Programming",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Sapna Shah"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Sapna Shah",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Design and Analysis of Algorithms",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Prateeksha Shanoj",
+          "Prof. Prateeksha Shanoj"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Prateeksha Shanoj",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Cryptography and Network Security",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Dr. Priyal Panchal"
+        ],
+        "visiting": false,
+        "faculty": "Dr. Priyal Panchal",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      }
+    ]
+  },
+  {
+    "division": "MBA.Tech (AI)-V-M",
+    "department": "Artificial Intelligence",
+    "morning_or_evening": "morning",
+    "subjects": [
+      {
+        "name": "Computer Network",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Dr. Sangitha Choudhary",
+          "Dr. Sangitha Choudhary"
+        ],
+        "visiting": false,
+        "faculty": "Dr. Sangitha Choudhary",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Deep Learning",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Kapil Rathor",
+          "Prof. Kapil Rathor"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Kapil Rathor",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Natural Language Processing",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Sneha Talreja",
+          "Prof. Sneha Talreja"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Sneha Talreja",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Mobile Application Development",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Dilip Motwani"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Dilip Motwani",
+        "elective": 1,
+        "combined_class": [
+          "B.Tech (AI)  A"
+        ],
+        "vf_timing": {}
+      },
+      {
+        "name": "Design and Analysis of Algorithms",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Sapna Shah"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Sapna Shah",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      }
+    ]
+  },
+  {
+    "division": "B.Tech (AI)-VII-A",
+    "department": "Artificial Intelligence",
+    "morning_or_evening": "morning",
+    "subjects": [
+      {
+        "name": "Applied Time Series Analysis",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Dr. Sangitha Choudhary",
+          "Dr. Sangitha Choudhary"
+        ],
+        "visiting": false,
+        "faculty": "Dr. Sangitha Choudhary",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Computer Vision",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Kapil Rathor",
+          "Prof. Kapil Rathor"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Kapil Rathor",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Advanced Topics in Machine Learning",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Sneha Talreja",
+          "Prof. Sneha Talreja"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Sneha Talreja",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Recommendation Systems",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Jish Joy",
+          "Prof. Jish Joy"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Jish Joy",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Big Data Analytics",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Sapna Shah",
+          "Prof. Sapna Shah"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Sapna Shah",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "Reinforcement Learning",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 0,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Prof. Prateeksha Shanoj"
+        ],
+        "visiting": false,
+        "faculty": "Prof. Prateeksha Shanoj",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      },
+      {
+        "name": "DevOps",
+        "Theory": 2,
+        "Pra": 2,
+        "Tut": 2,
+        "Credits": 2,
+        "Batches": 2,
+        "batch_faculty": [
+          "Dr. Priyal Panchal"
+        ],
+        "visiting": false,
+        "faculty": "Dr. Priyal Panchal",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      }
+    ]
+  },
+  {
+    "division": "UnknownDivision",
+    "department": "Unknown",
+    "morning_or_evening": "morning",
+    "subjects": [
+      {
+        "name": "Unknown",
+        "Theory": 0,
+        "Pra": 0,
+        "Tut": 0,
+        "Credits": 0,
+        "Batches": 1,
+        "batch_faculty": [],
+        "visiting": false,
+        "faculty": "",
+        "elective": 0,
+        "combined_class": [],
+        "vf_timing": {}
+      }
+    ]
+  }
+]
