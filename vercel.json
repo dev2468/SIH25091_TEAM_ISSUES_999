@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "https://sih-25091-team-issues-999.vercel.app/",
+      "destination": "https://sih25091-team-issues-999.onrender.com",
+      "permanent": true
+    }
+  ]
+}
